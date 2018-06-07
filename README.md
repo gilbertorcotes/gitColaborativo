@@ -1,6 +1,6 @@
-= Colaborative Exercise
-== Overview
+=Colaborative Exercise
+==Overview
 This example will help to demostrate Git Flow
-== Prerequisites
+==Prerequisites
 You will need:
 
